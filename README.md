@@ -1,4 +1,4 @@
-__Deep Learning Specialization:__
+__Deep Learning Specialization: Coursera - Andrew Ng__
 
 __Neural Networks and Deep Learning:__
 
